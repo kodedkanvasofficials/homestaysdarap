@@ -1,1 +1,8 @@
+### Jekyll ###
+.jekyll-metadata
 
+### Custom ###
+package.json
+Gemfile.lock
+gulpfile.js
+gemfile
