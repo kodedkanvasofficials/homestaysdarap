@@ -1,2 +1,2 @@
 # homestaysdarap
-Website for homestays darap
+Website for all the home-stays in Darap

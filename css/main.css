@@ -1,0 +1,52 @@
+.logo {
+  display: inline-block;
+  min-width: 10rem;
+}
+
+.hero-head .nav-item {
+  text-transform: uppercase;
+}
+
+.is-active {
+  color: #ffce00 !important;
+}
+
+ul.menu-list .tab-link {
+  display: block;
+  list-style: none;
+  width: 100%;
+}
+
+.tab-content {
+  display: none;
+  padding: 1.5rem;
+}
+
+.tab-content:is-active {
+  display: inherit;
+}
+
+.button.is-large {
+  text-transform: capitalize;
+  background: #ffce00;
+  color: #443101;
+}
+
+.hero.is-fullheight.landing {
+  background: url("../images/landing.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.hero.is-fullheight.landing .hero-head, .hero.is-fullheight.landing .hero-foot {
+  background: #fff;
+}
+
+.title {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #ffce00 !important;
+}
+
+.subtitle {
+  color: #fff;
+}
