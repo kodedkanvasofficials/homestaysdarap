@@ -1,1 +1,1 @@
-jQuery(document).ready(function(e){var t=e(".nav-toggle"),a=e("#nav-menu");t.click(function(){e(this).toggleClass("is-active"),a.toggleClass("is-active")})});
+jQuery(document).ready(function(s){var e=s(".nav-toggle"),a=s("#nav-menu");e.click(function(){s(this).toggleClass("is-active"),a.toggleClass("is-active")}),s("#stayResponsiveTabs").responsiveTabs({startCollapsed:!0})});
